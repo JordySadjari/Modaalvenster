@@ -1,0 +1,80 @@
+#ingang1 {
+ width: 220px;   
+ 
+}
+
+#hal1 {
+ width: 220px;   
+}
+
+#hotel {
+ width: 230px;  
+    height: 145px;
+}
+
+#wrapper {
+    
+    background-color: lightcyan;
+}
+
+.hotel-inhoud {
+    margin: 10% auto;
+    width: 600px;
+    height: 600px;
+    position: relative;
+    padding: 5px 20px 13px 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+    background: white;
+    
+}
+
+.hotel-knop {
+   background: red;
+ color: #FFFFFF;
+ line-height: 25px;
+ position: absolute;
+ right: -12px;
+ text-align: center;
+ top: -10px;
+ width: 24px;
+ text-decoration: none;
+ font-weight: bold;
+ border-radius: 12px;
+ box-shadow: 1px 1px 3px #000;
+    
+}
+
+.hotel-venster {
+    background: rgba(0,0,0,0.8);
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 99999;
+    
+    
+}
+
+#inside {
+    
+    width: 600px;
+    height: 480px;
+        
+}
+
+
+#halbuiten {
+    
+    width: 600px;
+    height: 480px;
+        
+}
+
+#hotelout {
+    
+    width: 600px;
+    height: 480px;
+        
+}
